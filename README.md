@@ -10,7 +10,7 @@ I'm a passionate developer and tech enthusiast dedicated to creating innovative 
 ## 🚀 Projects / プロジェクト
 - [Project 1 japanese_text_speech_processor](https://github.com/zixuniaowu/japanese_text_speech_processor) 
 - [Project 2 warehouse-management-ai-generator](https://github.com/zixuniaowu/warehouse-management-ai-generator) 
-- [Project 3 TBD](https://github.com/yourusername/project3) - Short description
+- [Project 3 ExistingCodeAnalysis](https://github.com/zixuniaowu/ExistingCodeAnalysis) 
 
 ## 📚 Blog & Resources / ブログとリソース
 - **Blog:** [zixuniao](https://zenn.dev/wangsh)
