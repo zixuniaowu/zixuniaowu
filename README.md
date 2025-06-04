@@ -8,10 +8,11 @@ I'm a passionate developer and tech enthusiast dedicated to creating innovative 
 テクノロジーの無限の可能性を探求し、革新的なソリューションを作り出すことに情熱を注ぐ開発者です。オープンソース開発と継続的な学習に対する愛を胸に、意味のあるプロジェクトを構築することに努めています。
 
 ## 🚀 Projects / プロジェクト
-- [Project 1 [AI] japanese_text_speech_processor](https://github.com/zixuniaowu/japanese_text_speech_processor) 
-- [Project 2 [backend] warehouse-management-ai-generator](https://github.com/zixuniaowu/warehouse-management-ai-generator) 
-- [Project 3 [source Analysis] ExistingCodeAnalysis](https://github.com/zixuniaowu/ExistingCodeAnalysis)
-- [Project 4 [app] golf_app](https://github.com/zixuniaowu/golf_app)
+- [AI][audio][PPT to video] japanese_text_speech_processor](https://github.com/zixuniaowu/japanese_text_speech_processor) 
+- [AI][JavaScript][Chrome Extension] warehouse-management-ai-generator](https://github.com/zixuniaowu/warehouse-management-ai-generator) 
+- [MCP][source Analysis] ExistingCodeAnalysis](https://github.com/zixuniaowu/ExistingCodeAnalysis)
+- [app][flutter] golf_app](https://github.com/zixuniaowu/golf_app)
+- [web][React] foreigner-job-portal (https://github.com/zixuniaowu/foreigner-job-portal)
 
 ## 📚 Blog & Resources / ブログとリソース
 - **Blog:** [zixuniao](https://zenn.dev/wangsh)
