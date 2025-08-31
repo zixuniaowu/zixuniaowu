@@ -11,7 +11,6 @@ I'm a passionate developer and tech enthusiast dedicated to creating innovative 
 - [AI][python][PPT to video] japanese_text_speech_processor](https://github.com/zixuniaowu/japanese_text_speech_processor) 
 - [AI][JavaScript][Chrome Extension] gmail-ai-responder(https://github.com/zixuniaowu/gmail-ai-responder) 
 - [MCP][python][source Analysis] ExistingCodeAnalysis](https://github.com/zixuniaowu/ExistingCodeAnalysis)
-- [app][flutter] golf_app](https://github.com/zixuniaowu/golf_app)
 - [web][JavaScript][React] foreigner-job-portal (https://github.com/zixuniaowu/foreigner-job-portal)
 
 ## 📚 Blog & Resources / ブログとリソース
