@@ -1,4 +1,4 @@
-# Hello, I'm [Shenghua Wang] 👋
+# Hello, I'm [jacky Wang] 👋
 
 ## 🌍 About Me / 私について
 **English:**
