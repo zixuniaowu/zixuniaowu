@@ -23,9 +23,6 @@ I'm a passionate developer and tech enthusiast dedicated to creating innovative 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![C++](htps://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=C++&logoColor=white)
-## 📊 GitHub Stats / GitHubの統計
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 
 ## 🤝 Connect with Me / 私と繋がる
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zixuniaowu@gmail.com)
